@@ -1,0 +1,9 @@
+.boxx{
+    width: 1450px;
+    min-height: 500px;
+    margin:30px;
+    padding:20px;
+    border:2px solid;
+    border-radius: 2%;
+    background-color: rgb(211, 213, 214); 
+}
